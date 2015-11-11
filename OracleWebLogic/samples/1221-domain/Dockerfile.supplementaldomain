@@ -21,7 +21,7 @@
 # (1) fmw_12.2.1.0.0_wls_supplemental_quick.jar
 #     Download the Developer Quick installer from http://www.oracle.com/technetwork/middleware/weblogic/downloads/wls-for-dev-1703574.html 
 #
-# (2) jdk-8u60-linux-x64.rpm
+# (2) jdk-8u66-linux-x64.rpm
 #     Download from http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 #
 # HOW TO BUILD THIS IMAGE
